@@ -1,3 +1,5 @@
+BIKE SALES DASHBOARD
+
 **Introduction**:
 
 In the dynamic landscape of retail, understanding the intricacies of sales data is paramount for strategic decision-making. Our analysis delves into comprehensive insights derived from a dataset encompassing total orders, sales, profits, and various categorical breakdowns. With a total of 60,000 orders, our sales volume has soared to $29.36 million, yielding a commendable profit margin of $12.08 million. Examining further, we unveil compelling narratives across categories, sub-categories, geographical regions, age groups, products, and customer segments, each offering nuanced perspectives that illuminate the trajectory of our business. Let's embark on a journey through these insights to unravel the underlying trends shaping our success story.
